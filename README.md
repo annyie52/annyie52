@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @annyie52.
+- 👀 I’m interested in data science and economics.
+- 🌱 I’m currently learning programming language.
