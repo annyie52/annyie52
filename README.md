@@ -19,3 +19,5 @@
 
 1. [AWS EC2와 MySQL 연동법](https://github.com/annyie52/sql/blob/master/AWS%20EC2%EC%99%80%20MySQL%20%EC%97%B0%EB%8F%99%EB%B2%95.md)
 2. [MySQL 기초](https://github.com/annyie52/sql/blob/master/MySQL%20%EA%B8%B0%EC%B4%88.md)
+3. [Connect MySQL](https://github.com/annyie52/sql/blob/master/Connect%20MySQL.md)
+4. [SQLAlchemy](https://github.com/annyie52/sql/blob/master/SQLAlchemy.md)
