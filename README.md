@@ -26,6 +26,8 @@
 
 ## [Data Analyze](https://github.com/annyie52/Data-Analyze)
 
+## [Data Visualization- 코로나 데이터를 활용한 시각화 프로젝트](https://github.com/annyie52/Visualization-Portfolio)
+
 ## [Data Science Project 1-주식 가격 예측](https://github.com/annyie52/Data-Science-Project)
 
 ## [Data Science Project 2-리셀 시장 프로젝트](https://github.com/annyie52/Data-Science-Project-2.git)
