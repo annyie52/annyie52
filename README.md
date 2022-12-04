@@ -32,4 +32,4 @@
 
 ## [Data Science Project 2-리셀 시장 프로젝트](https://github.com/annyie52/Data-Science-Project-2.git)
 
-## [Data Science Project 3-스팀 게임 추천 서비스 프로젝트]()
+## [Data Science Project 3-스팀 게임 추천 서비스 프로젝트](https://github.com/annyie52/Data-Science-Project-3)
