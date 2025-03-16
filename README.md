@@ -5,7 +5,7 @@
 # Contents
 
 ## About Me
-[석사 전공 자기 소개서]
+[간단한 포트폴리오](https://github.com/annyie52/annyie52/blob/master/%EC%A0%84%EA%B3%B5.pdf)
 
 ## python
 
